@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fc8cbc1c1c10fb7418039fce047f271f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BadaBoom BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eb8b39d3ec1979346ba274ddf66b448d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
